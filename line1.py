@@ -1,0 +1,15 @@
+emp=[]
+print(emp)
+print(type(emp))
+num_list=[1,2,3,4,5,6]
+print(num_list)
+char=['a','s','d']
+print(char)
+float_List=[1.2,2.2,3.2,3.3,4.3,4.4,]
+print(float_List)
+str=["hi","hello","RAZIQ"]
+print(str)
+print(type(str))
+mix_list=[12,'R',"hello",2.34]
+print(mix_list)
+print(type(mix_list))
