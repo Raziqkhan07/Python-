@@ -1,1 +1,1 @@
-print("This is my fist Git code")
+print("This is my secand Git code")
